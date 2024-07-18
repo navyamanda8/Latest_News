@@ -1,4 +1,4 @@
-# News App
+# Latest_News App
 
 ![pic](https://github.com/user-attachments/assets/a36dcf27-6659-44a7-a00e-e6c2e32dc3ed)
 
