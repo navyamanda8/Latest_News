@@ -1,6 +1,7 @@
 # News App
 
-![](https://github.com/simranlotey/react-news-app/blob/master/src/components/Images/demo.png)
+![pic](https://github.com/user-attachments/assets/a36dcf27-6659-44a7-a00e-e6c2e32dc3ed)
+
 
 This News App is powered by the GNews public API and provides users with the latest news articles from around the world. The app offers a user-friendly interface where news articles are organized by categories, allowing users to easily browse and read articles of their interest. 
 
