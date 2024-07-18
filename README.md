@@ -39,7 +39,7 @@ git clone https://github.com/simranlotey/react-news-app.git
 2. Navigate to the project directory:
 
 ```
-cd react-news-app
+cd news-app
 ```
 
 3. Install the required dependencies:
