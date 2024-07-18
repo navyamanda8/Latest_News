@@ -40,7 +40,7 @@ git clone https://github.com/simranlotey/react-news-app.git
 2. Navigate to the project directory:
 
 ```
-cd news-app
+cd Latest_News
 ```
 
 3. Install the required dependencies:
@@ -61,9 +61,6 @@ npm start
 
 Contributions to this News App are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request in this repository.
 
-## License
-
-This News App is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
 
 ## Acknowledgements
 
